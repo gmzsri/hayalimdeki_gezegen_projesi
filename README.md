@@ -64,10 +64,10 @@
 
 Bu proje, modern yazılım geliştirme araçları ve teknikleri kullanılarak yapılmıştır:
 
-- **Unity**: Oyun motoru.
-- **ARCore (Android)** ve **ARKit (iOS)**: Artırılmış gerçeklik için.
-- **Google Maps API**: Harita ve konum verileri.
-- **JSON Veritabanı**: Ülke, şehir ve kültürel bilgiler.
+- Flutter
+- Dart
+- Google Fonts
+- Material Design 3
 
 ---
 
