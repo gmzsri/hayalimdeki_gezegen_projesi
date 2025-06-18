@@ -213,7 +213,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Detaylar için `LI
 
 ## 📞 İletişim
 
-- **Proje Sahibi:** Gamze
+- **Proje Sahibi:** Gamze Sari
 - **GitHub:** [@gmzsri](https://github.com/gmzsri)
 - **E-posta:** [E-posta adresinizi buraya ekleyin]
 - **Proje Linki:** [https://github.com/gmzsri/hayalimdeki_gezegen_projesi](https://github.com/gmzsri/hayalimdeki_gezegen_projesi)
